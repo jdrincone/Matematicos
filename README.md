@@ -1,5 +1,5 @@
-# matematicos
-Matemáticos en la  historia: Un dataset de Wikipedia
+# Matemáticos en la  historia: Un dataset de Wikipedia
+
 ¿Qué distingue a los grandes matemáticos de los buenos, los recordados de los olvidados?...
 Con estas palabras inicia Joseph Philleo retando a la comunidad de *kaggle*  encontrar los atributos
 más sobresalientes que han tenido los matemático de los cuales se posee información en Wikipedia para 
